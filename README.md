@@ -74,10 +74,12 @@ mcp dev test.py
 
    List Tools
 
-   ，你会看到两个注册好的工具：
+   ，你会看到四个注册好的工具：
 
    - `get_desktop_files`（无参数，获取桌面文件）
    - `calculator`（需传入 a、b、operator 三个参数）
+   - `get_oil_price_pear`
+   - `get_city_route`
 
 <img width="830" height="464" alt="屏幕截图 2026-04-21 145137" src="https://github.com/user-attachments/assets/bdfaac1c-8615-41b6-a1ed-4065d6d71f9b" />
 
